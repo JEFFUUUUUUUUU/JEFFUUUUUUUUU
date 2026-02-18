@@ -2,7 +2,7 @@ Hi, I'm Charles Jeff Camajalan 👋
 Computer Engineering graduate from Cebu, Philippines.
 I test apps, break things on purpose, and make sure software actually works.
 
-/n What I Do
+What I Do
 📱 Mobile app testing (iOS & Android)
 🧪 Manual QA, test case creation & bug tracking
 🔧 Technical troubleshooting & debugging
