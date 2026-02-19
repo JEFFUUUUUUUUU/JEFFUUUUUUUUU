@@ -1,6 +1,28 @@
-# 💫 About Me:
-# Hi, I'm Charles Jeff Camajalan 👋<br><br>Computer Engineering graduate from Cebu, Philippines.<br>I test apps, break things on purpose, and make sure software actually works.<br><br>---<br><br>### 🔨 What I Do<br><br>📱 **Mobile app testing** (iOS & Android)<br><br>🧪 **Manual QA**, test case creation & bug tracking<br><br>🔧 **Technical troubleshooting** & debugging<br><br>🤖 **Automation-ready mindset** (Appium-based workflows)<br><br>---<br>### 📌 Background<br><br>🎓 **BS Computer Engineering** — University of Cebu (2025)<br><br>💼 **Currently:** Inbound Sales + Technical Support @ Leaftel<br><br>🔬 **Thesis:** Built & tested a Li-Fi Morse OTP mobile security system<br><br>---<br><br>### 📬 Let's Connect<br><br>📧 **cj.work.camajalan@gmail.com**<br><br>📍 Cebu City, PH · Open to hybrid / full-time roles<br><br>---
+# Hi, I'm Charles Jeff Camajalan 👋
 
+Computer Engineering graduate from Cebu, Philippines.
+
+I test apps, break things on purpose, and make sure software actually works.
+
+---
+
+### 📌 Background
+
+🎓 **BS Computer Engineering** — University of Cebu (2025)
+
+💼 **Currently:** Inbound Sales + Technical Support @ Leaftel
+
+🔬 **Thesis:** Built & tested a Li-Fi Morse OTP mobile security system
+
+---
+
+### 📬 Let's Connect
+
+📧 **cj.work.camajalan@gmail.com**
+
+📍 Cebu City, PH · Open to hybrid / full-time roles
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/VyfEXwEQva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cj.work.camajalan@gmail.com) 
